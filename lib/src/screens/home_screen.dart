@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
                   const SizedBox(height: 48),
                   NavButton(
                     label: 'Chained Animations',
-                    color: const Color(0xFF8E1EA2),
+                    color: const Color(0xFF9FED72),
                     onTap: () {
                       Navigator.push(
                         context,
@@ -57,7 +57,7 @@ class HomeScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   NavButton(
                     label: 'Color Changer',
-                    color: const Color(0xFF8E1EA2),
+                    color: const Color(0xFFD552A3),
                     onTap: () {
                       Navigator.push(
                         context,
@@ -70,7 +70,7 @@ class HomeScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   NavButton(
                     label: 'Playing with Polygons',
-                    color: const Color(0xFF8E1EA2),
+                    color: const Color(0xFFFF5B42),
                     onTap: () {
                       Navigator.push(
                         context,
@@ -83,7 +83,7 @@ class HomeScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   NavButton(
                     label: 'Rotation in a circle',
-                    color: const Color(0xFF8E1EA2),
+                    color: const Color(0xFFBEDEFF),
                     onTap: () {
                       Navigator.push(
                         context,
@@ -96,7 +96,7 @@ class HomeScreen extends StatelessWidget {
                   const SizedBox(height: 16),
                   NavButton(
                     label: 'Animated Prompt',
-                    color: const Color(0xFF8E1EA2),
+                    color: const Color(0xFF728E6D),
                     onTap: () {
                       Navigator.push(
                         context,
